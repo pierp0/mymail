@@ -1,2 +1,2 @@
 # mymail
-A wrapper for smtplib 
+A wrapper for smtplib and imaplib
